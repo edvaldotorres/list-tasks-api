@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/NodeJS-14.16.1-blue.svg?cacheSeconds=2592000" />
   <img alt="Version" src="https://img.shields.io/badge/npm-6.14.12-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/edvaldotorres/listtasks-api#readme" target="_blank">
+  <a href="https://github.com/edvaldotorres/list-tasks-api#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="#" target="_blank">
@@ -12,7 +12,7 @@
 
 > Project that is about a task list API where all the CRUD's are. The project's main stack is Node JS
 
-### 🏠 [Homepage](https://github.com/edvaldotorres/listtasks-api#readme)
+### 🏠 [Homepage](https://github.com/edvaldotorres/list-tasks-api#readme)
 
 ## Prerequisites
 
@@ -42,7 +42,7 @@ npm run start
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/edvaldotorres/listtasks-api/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/edvaldotorres/list-tasks-api/issues). 
 
 ## Show your support
 
